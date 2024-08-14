@@ -15,11 +15,11 @@ export const datas=[
     {
         id: 2,
         img: mountain,
-        title: "Bagiou City",
+        title: "Baguio City",
         Description:
           "A city built on mountain that has an interesting an history in which noast a large tourist among the country their market has wide variety of options to choose whether clothing food or other souviner for your friends or family  ",
         DateTravel:2024,
-        Location:"Bagiou City"
+        Location:"Baguio City"
         },
         {
           id: 3,
